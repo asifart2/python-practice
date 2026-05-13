@@ -1,0 +1,2 @@
+a="my crush"
+print(a.upper())
